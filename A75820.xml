@@ -1,0 +1,614 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A practicall catechisme of purpose framed for the help of such as desire to enjoy more sweet and intimate soul-communion with Jesus Christ in that sacred ordinance of his own Supper. Begun at Newport-Pagnel in Buckinghamshire, revived at Luton in Bedfordshore, and now perfected at Queen Hithe in London. By Samuel Austin, an unworthy minister of the Gospell of Jesus Christ.</title>
+            <author>Austin, Samuel, Minister of St. Michael's Queenhithe.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1647</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 60 KB of XML-encoded text transcribed from 24 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75820</idno>
+            <idno type="STC">Wing A4258</idno>
+            <idno type="STC">Thomason E1187_4</idno>
+            <idno type="STC">ESTC R208239</idno>
+            <idno type="EEBO-CITATION">99867205</idno>
+            <idno type="PROQUEST">99867205</idno>
+            <idno type="VID">169449</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75820)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169449)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 167:E1187[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A practicall catechisme of purpose framed for the help of such as desire to enjoy more sweet and intimate soul-communion with Jesus Christ in that sacred ordinance of his own Supper. Begun at Newport-Pagnel in Buckinghamshire, revived at Luton in Bedfordshore, and now perfected at Queen Hithe in London. By Samuel Austin, an unworthy minister of the Gospell of Jesus Christ.</title>
+                  <author>Austin, Samuel, Minister of St. Michael's Queenhithe.</author>
+               </titleStmt>
+               <extent>[10], 36 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Tho. Vnderhill, at the sign of the Bible in Woodstreet,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1647.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Running title reads: A practicall catechisme concerning the Lords Supper.</note>
+                  <note>Annotation on Thomason copy: "Aprill 27".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Catechisms, English --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Sampled and proofread</change>
+         <change>
+            <date>2013-07</date>
+            <label>Olivia Bottum</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169449:1" rendition="simple:additions"/>
+            <p>A <hi>Practical Catechiſme</hi> Of purpoſe framed for the help of ſuch as deſire to enjoy more ſweet and intimate Soul-communion with <hi>Jeſus Chriſt</hi> in that ſacred Ordi<g ref="char:EOLhyphen"/>nance of his own Supper.</p>
+            <p>Begun at <hi>Newport-Pagnel</hi> in Buc<g ref="char:EOLhyphen"/>kinghamſhire, revived at <hi>Luton</hi> in Bedfordſhire, and now perfected at <hi>Queen Hithe</hi> in <hi>London.</hi>
+            </p>
+            <p>
+               <hi>By</hi> Samuel Auſtin, <hi>an unworthy Miniſter of the Goſpell of Jeſus Chriſt.</hi>
+            </p>
+            <q>
+               <bibl>1 <hi>Cor.</hi> 10.16, 17.</bibl> The cup of bleſſing which we bleſs, is it not the Communion of the blood of Chriſt? the bread which we break, is it not the Communion of the body of Chriſt? For we be<g ref="char:EOLhyphen"/>ing many, are one bread, and one body: for we are all partakers of that one bread.</q>
+            <q>
+               <bibl>1 <hi>Cor.</hi> 12.13.</bibl> For by one Spirit we are all bap<g ref="char:EOLhyphen"/>tized into one body, whether we be Iews or Gen<g ref="char:EOLhyphen"/>tiles, whether we be bond or free, and have been made to drink into one Spirit.</q>
+            <q>
+               <bibl>
+                  <hi>1 Ioh. 1.3, 4.</hi>
+               </bibl> That which we have ſeen and heard, de<g ref="char:EOLhyphen"/>clare we unto you, that ye alſo may have fellowſhip with us; and truly our fellowſhip is with the Father, and with his Son Ieſus Chriſt. And theſe things write we unto you, that your joy may be full.</q>
+            <p>
+               <hi>London,</hi> Printed for <hi>Tho. <g ref="char:V">Ʋ</g>nderhill,</hi> at the ſign of the <hi>Bible</hi> in <hi>Woodſtreet.</hi> 1647.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:169449:2"/>
+            <pb facs="tcp:169449:2"/>
+            <head>THE EPISTLE DEDICATORY, To my dearely beloved friends, the Church and faithfull People of God, which are at <hi>Newport-Pagnell</hi> in Buckinghamſhire, at <hi>Lu<g ref="char:EOLhyphen"/>ton</hi> in Bedfordſhire, and at <hi>Michael Queen Hithe</hi> in London:
+<note n="*" place="margin">2 <hi>Pet.</hi> 1.2.</note> Grace and Peace be multiply<g ref="char:EOLhyphen"/>ed unto you, through the knowledge of God, and of Ieſus our Lord.</head>
+            <opener>
+               <salute>Dearely beloved:</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">I</seg>T is not unknown to ſome, if not to the moſt of you; that this ſacred Ordinance of the Lords ſupper, is ſuperſtiti<g ref="char:EOLhyphen"/>ouſly and prophanely abuſed by many, who are extreamly zealous to have their part in the outſide, &amp; viſible ele<g ref="char:EOLhyphen"/>ments of this Ordinance,
+<note n="*" place="margin">As Po<g ref="char:EOLhyphen"/>piſh ſpirits who con<g ref="char:EOLhyphen"/>tent them<g ref="char:EOLhyphen"/>ſelves with the <hi>opus operatum,</hi> or work done.</note> but never care for the inviſible grace, or ſpirit of Chriſt in the Ordinance: Others there are that do <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> much ſlight and deſpiſe both the ele<g ref="char:EOLhyphen"/>ments,
+<pb facs="tcp:169449:3"/>and the grace of it, that they ſeldom, or never care for the participation of it, un<g ref="char:EOLhyphen"/>leſs formally, and for faſhion ſake. Others, that not only neglect it themſelves, but hinder ſuch from it as much deſire the re<g ref="char:EOLhyphen"/>novation of their Covenant, and ſweet Soul-communion with Chriſt, in the due participation of it. And ſome there are al<g ref="char:EOLhyphen"/>ſo ſprung up of late I hear, (which to me appear in a more ſtrange viſage then the reſt,) who deny this and other Ordinances of Chriſt in the New Teſtament, to be now had in uſe at all amongst Gods people; they holding this as a principle; That this and all other Ordinances are now loſt and dead with Chriſt and his Apoſtles: which ſad opinion, I muſt confeſs, I cannot look upon, as a notion of any new light, as ſome may pleaſe to eſteem of it; but rather to bewaile it as a ſtrange and dangerous fancie, without, and againſt the word of truth,
+<note n="*" place="margin">
+                  <hi>Mat.</hi> 28.19, 20. 1 <hi>Cor.</hi> 11.23. <hi>&amp;c.</hi> 25, 26.</note> or as an <hi>ignis fatuus,</hi> a fond light, that will lead thoſe that follow it (if God in mercy prevent not) into utter darkneſs. To adminiſter ſome means of cure to theſe ſad diſtempers (if God ſhall pleaſe to glori<g ref="char:EOLhyphen"/>fie himſelf by ſo weak an inſtrument:) I have taken this opportunity, to ſend out theſe few <hi>Catacheticall</hi> thoughts of mine,
+<pb facs="tcp:169449:3"/>upon this Ordinance of the Lords ſupper; wherein I have endeavoured to clear to you and others, (ſo far as a work of this na<g ref="char:EOLhyphen"/>ture would bear) theſe four particulars. <hi>1.</hi> The divine authority of this Ordinance. <hi>2.</hi> The nature of it. <hi>3.</hi> The ends of it, (wherein the perpetuity of it is implyed.) <hi>4.</hi> The requiſites, or things required for the prevention of the abuſe, and the better help of my ſelf and others, to the ſweet and comfortable participation of it. All which (dearely beloved in the Lord) I have thought good to preſent reſpectively unto your ſelves, as the fitteſt objects I could make choyce of to dedicate this work unto; and that for diverſe reaſons, as theſe in ſpecial.</p>
+            <p n="1">
+               <hi>1.</hi> Becauſe it was conceived, and brought forth amongst you, as being a part of my poor miniſteriall pains, while divine provi<g ref="char:EOLhyphen"/>dence did call me to labour with you, and therefore you have the more right unto it. A poor childe by Law, muſt be kept where it was born; I leave it therefore to your tender care, hoping you will nouriſh it as your own.</p>
+            <p n="2">
+               <hi>2.</hi> It was at firſt intended for your ſpi<g ref="char:EOLhyphen"/>rituall good; and therefore I do now the more boldly bequeath it to you.</p>
+            <p n="3">
+               <pb facs="tcp:169449:4"/> 
+               <hi>3.</hi> Theſe labours of mine in a way of Catechizing, have been ſometimes profit<g ref="char:EOLhyphen"/>able to ſome yea, I may ſay with thank<g ref="char:EOLhyphen"/>fulneſs to God (by the acknowledgment of others) to many of you;
+<note n="*" place="margin">As at <hi>Newport</hi> eſpecially, before our late trou<g ref="char:EOLhyphen"/>bles; where I beſtowed many years pains in this ex<g ref="char:EOLunhyphen"/>erciſe.</note> I deſire by this means, they may prove ſo unto you all.</p>
+            <p n="4">
+               <hi>4.</hi> Divine providence hath called me off from ſome of you; and I know not how ſoon I may be called from others where I now am, to a country and people, that have more need of the miniſtery, (at leaſt more ſence of their needs, then many now in <hi>London</hi> have.) Where I may be more ſer<g ref="char:EOLhyphen"/>viceable to God, then in that ſlender Con<g ref="char:EOLhyphen"/>gregation which I now attend. And there<g ref="char:EOLhyphen"/>fore I deſired to leave this amongst you, as a perpetuall pledge and memoriall of my moſt dear love unto your ſouls; and of my moſt earneſt deſires to help you on in your more ſweet and intimate Communion with Jeſus Chriſt, in this and other of his Ordi<g ref="char:EOLhyphen"/>nances of grace here, till hee ſhall call you home into full Communion with himſelf, in his everlaſting glory.</p>
+            <p n="5">
+               <hi>5.</hi> The time will come (how ſoon I know not) that you all (as well as my ſelf) muſt give up your accounts
+<note n="*" place="margin">
+                  <hi>Rom.</hi> 14.10.12. 2 <hi>Cor.</hi> 5.10.</note> of your Steward<g ref="char:EOLhyphen"/>ſhips to Jeſus Chriſt; and what holy uſe you have made of this and other Ordinances of
+<pb facs="tcp:169449:4"/>grace; I thought it meet therefore to leave this with you, both to put you in remem<g ref="char:EOLhyphen"/>brance
+<note n="*" place="margin">As 2 <hi>Pet.</hi> 1.12, 13, 14, 15.</note> of your duty, and to help you in it; that ſo you may give up your accounts with joy, and not with grief.</p>
+            <p n="6">
+               <hi>6.</hi> There are ſome reaſons in reſpect of the times.</p>
+            <p n="1">
+               <hi>1.</hi> You know the times are full of looſnes &amp; prophaneſs: by this, I deſire to preſs you to more holy ſtrictneſs, <hi>Eph. 4.17. &amp; 20. &amp; 5.15.16. Heb. 12.14.</hi>
+            </p>
+            <p n="2">
+               <hi>2.</hi> The times are full of unchriſtian bit<g ref="char:EOLhyphen"/>terneſs, diviſions, <hi>&amp;c.</hi> By this I deſire, that you may endeavour the more to make up breaches, and to preſerve Chriſtian <g ref="char:V">Ʋ</g>nity and <g ref="char:V">Ʋ</g>nanimity amongst your ſelves,
+<note n="*" place="margin">Re<g ref="char:EOLhyphen"/>member <hi>Phil.</hi> 2.1, 2. Which hath been ſometimes opened &amp; applyed unto you.</note> 
+               <hi>Phil. 2.1, 2. Eph. 4.</hi> v. <hi>3.</hi>
+            </p>
+            <p n="3">
+               <hi>3.</hi> The times are full of ſlighting and neglecting this and other divine Ordinan<g ref="char:EOLhyphen"/>ces, the means and miniſtery of grace, (which are ſadly withdrawn from ſome of you,
+<note n="†" place="margin">As <hi>New<g ref="char:EOLhyphen"/>port</hi> and <hi>Luton.</hi>
+               </note>) I deſire you by this, to prize them the more, to pray for them more ear<g ref="char:EOLhyphen"/>neſtly where they are wanting, and to make more holy uſe of them, where and when you have them.</p>
+            <p n="4">
+               <hi>4.</hi> Theſe are times wherein men are much taken up in ſeeking after new notions, and ſtrange opinions. I deſire by this, you
+<pb facs="tcp:169449:5"/>may ſeek the more earneſtly after the
+<note n="*" place="margin">Ier. 6.16 1 Ioh. 2.7.</note> old truth of Jeſus Chriſt, and ſtick more cloſe unto them. While others are notionall, be you practicall,
+<note n="*" place="margin">1 <hi>Cor.</hi> 8.1.</note> 
+               <hi>&amp; Joh. 13.17.</hi> theſe are the reaſons of my dedication.</p>
+            <p>Give me leave to add ſome reaſons for my publication of this poor piece (if it ſhall be approved) and I have done.</p>
+            <p>It was not either from the apprehenſion of the want of other more learned helps in this kinde, of which there are many
+<note n="*" place="margin">Mr. <hi>Da<g ref="char:EOLhyphen"/>niel Rogers</hi> two Trea<g ref="char:EOLhyphen"/>tiſes upon the Sacra<g ref="char:EOLhyphen"/>ments. Mr. <hi>Dike, Bradſhaw, Hilderſam, &amp;c.</hi>
+               </note> very uſefull and profitable, for which I deſire to bleſs God; nor from any thoughts of the worth of this, as flowing from my ſelf, which I conceive to be very weak. But.</p>
+            <p n="1">
+               <hi>1.</hi> Out of deſire to add my poor mite, to the helping on of the great work of God now in agitation, <hi>ſcil.</hi> the adminiſtration of this Ordinance of the Lords ſupper (a<g ref="char:EOLhyphen"/>mongst others) in its purity.</p>
+            <p n="2">
+               <hi>2.</hi> To ſatisfie the earneſt deſires of ſome friends, not to be deſpiſed.</p>
+            <p n="3">
+               <hi>3.</hi> To prevent my tedious labour of writing copies for ſuch as did deſire it.</p>
+            <p n="4">
+               <hi>4.</hi> To have a help in more readineſs for preparation of the people I relate unto, for the Lords ſupper. This help I conceive be<g ref="char:EOLhyphen"/>ing more familiar to them then others.</p>
+            <p n="5">
+               <hi>5.</hi> To give ſome taſt of my poor labours
+<pb facs="tcp:169449:5"/>in this kind, (which have done good to ſome) though I have not time to ſend forth all.</p>
+            <p n="6">
+               <hi>6.</hi> And laſtly, to ſtir up others of my bre<g ref="char:EOLhyphen"/>thren, who are more able to ſend out thoſe helps of theirs, which may prove more pro<g ref="char:EOLhyphen"/>fitable. And to beſtow the more diligent pains in this great duty of Catechizing; which if ever, would at this time prove ve<g ref="char:EOLhyphen"/>ry ſeaſonable.
+<note n="*" place="margin">
+                  <hi>Prov.</hi> 22.6. <hi>Hoſ.</hi> 4.6. <hi>Heb.</hi> 5.12. <hi>&amp;c.</hi>
+               </note> Thus you have the reaſons both of my Dedication, and Publication. I have kept you to long in the Porch; I ſhall now leade you into the Houſe it ſelf. The Lord give you, and others abundance of joy and conſolation in Chriſt, in the uſe of it. So Prayes,</p>
+            <closer>
+               <signed>
+                  <hi>Your truly loving friend and ſer<g ref="char:EOLhyphen"/>vant for Jeſus ſake,</hi> Samuel Auſtin.</signed> 
+               <dateline>London, <date>Martii <hi>5<hi rend="sup">o</hi>. 1646.</hi>
+                  </date>
+               </dateline>
+            </closer>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:169449:6"/>
+            <pb n="1" facs="tcp:169449:6"/>
+            <head>Some briefe
+<note n="*" place="margin">Or, <hi>A</hi> Practicall Cate<g ref="char:EOLhyphen"/>chiſm.</note> Catecheticall Di<g ref="char:EOLhyphen"/>rections by way of queſtion and an<g ref="char:EOLhyphen"/>ſwer, the better to prepare my ſelfe, and others, for ſweet Communion with Ieſus Chriſt, in that ſacred Ordi<g ref="char:EOLhyphen"/>nance of his own Supper; begun at <hi>Newport,</hi> revived at <hi>Luton,</hi> but per<g ref="char:EOLhyphen"/>fected at <hi>Queen Hithe</hi> in <hi>London,</hi>
+            </head>
+            <byline>By <hi>S. A.</hi>
+            </byline>
+            <p>The Text laid as the foundation of this Exerciſe, <bibl>
+                  <hi>1 Cor. 11.23, 24.</hi> &amp;c. <hi>29.</hi>
+                  <note place="margin">The ſum of theſe directions, ſhewing 1. The Author. 2. The na<g ref="char:EOLhyphen"/>ture. 3. the ends and 4. the requiſites of this Or<g ref="char:EOLhyphen"/>dinance.</note>
+               </bibl>
+            </p>
+            <p>Queſt. <hi>WHo is the Author of this Sacrament of the Lords Supper?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Lord Jeſus Chriſt himſelfe, 1 <hi>Cor.</hi> 11.23. <hi>Mat.</hi> 26.26, 27. [and therefore it is called the Lords Supper, becauſe he is the Author, and Inſtitutor of it. 1 <hi>Cor.</hi> 11.20.]</p>
+            <pb n="2" facs="tcp:169449:7"/>
+            <p> Queſt. <hi>What gather you from hence?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe five things:</p>
+            <p n="1">1. That we muſt prize and eſteem it highly, as the precious Ordinance of Je<g ref="char:EOLhyphen"/>ſus Chriſt, 1 <hi>Cor.</hi> 10.16. &amp; <hi>cap.</hi> 11.27.</p>
+            <p n="2">2. We muſt not ſlight, but come to it, and partake of it with faith, fear and re<g ref="char:EOLhyphen"/>verence, as of his Ordinance; as <hi>Iſa.</hi> 55.1, 2, 3. <hi>Mat.</hi> 22.4, 5. <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. We muſt go to him, and wait upon him, by faithfull and fervent prayer, for his ſpeciall preſence with, and bleſſing on us in this his own Ordinance, <hi>Joh.</hi> 14.13, 14. <hi>Mat.</hi> 18.19, 20.</p>
+            <p n="4">4. We muſt make it our ſpeciall care, and labour,
+<note place="margin">As the life and ſoul of this Ordi<g ref="char:EOLhyphen"/>nance.</note> to enjoy him, and cloſe in ſweet Soul-communion with him, in this Ordinance <hi>Cantic.</hi> 1.2. <hi>Joh.</hi> 6.27.</p>
+            <p n="5">5. And laſtly, That thoſe who are ſlighters and deſpiſers of it, are ſlighters and deſpiſers of Chriſt himſelf, whoſe Ordinance it is, and therefore they muſt look to anſwer for it. <hi>Mat.</hi> 22.4, 5. 1 <hi>Theſ.</hi> 4.8. 1 <hi>Cor.</hi> 11.27.</p>
+            <p>Queſt. <hi>What is the nature of the Lords ſupper?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is the ſecond Sacrament of the New Teſtament, or the Sacrament of our growth and continuation in Jeſus
+<pb n="3" facs="tcp:169449:7"/>Chriſt, and his Church,
+<note n="*" place="margin">As Bap<g ref="char:EOLhyphen"/>tiſm is the firſt Sacra<g ref="char:EOLhyphen"/>ment, or the Sacra<g ref="char:EOLhyphen"/>ment of our initia<g ref="char:EOLhyphen"/>tion, or en<g ref="char:EOLhyphen"/>trance in<g ref="char:EOLhyphen"/>to Ieſus <hi>Chriſt</hi> and his Church</note> wherein by the due and worthy receiving of Bread and Wine, according to Chriſts inſtitution, is ſignified and ſealed unto us, our true re<g ref="char:EOLhyphen"/>ceiving of the body and blood of Jeſus Chriſt, with all his
+<note n="†" place="margin">Conceive it in a ſpi<g ref="char:EOLhyphen"/>rituall ſenſe. Compare <hi>Joh.</hi> 6.51, 52, 53, &amp; 63. verſes.</note> precious merits and excellencies, to the nouriſhing up of our ſouls unto everlaſting life. 1 <hi>Cor.</hi> 11.24, 25, 26. <hi>Joh.</hi> 6.27.52.53. <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>Why, or for what ends muſt we partake of this Ordinance?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For theſe three ends. 1. To teſtifie our obedience unto Jeſus Chriſt. <hi>Math.</hi> 26.26, 27.</p>
+            <p n="2">2. To perpetuate the memoriall of his death for us, and infinite love therein unto us. 1 <hi>Cor.</hi> 11.24, 25, 26. <hi>Joh.</hi> 15.13.</p>
+            <p n="3">3. To ſeal up our intimate Union, and Communion with him by faith, and with the Saints by love. 1 <hi>Cor.</hi> 10.16, 17. &amp; 12, 13.</p>
+            <p>Queſt. <hi>What are the requiſites, or things required of all ſuch as deſire to be worthy and welcome partakers of this Sa<g ref="char:EOLhyphen"/>crament?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe three <hi>viz.</hi>
+            </p>
+            <p n="1">1. Due preparation before they come.</p>
+            <p n="2">2. A right diſpoſition or behaviour of themſelves when they come.</p>
+            <p n="3">
+               <pb n="4" facs="tcp:169449:8"/> 3. An anſwerable, carefull, Chriſtian carriage when they are gone.</p>
+            <p>Queſt. <hi>Why muſt they prepare them<g ref="char:EOLhyphen"/>ſelves before they come?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For theſe four reaſons.</p>
+            <p n="1">1 Becauſe God requires it in all his ſervices, (as 1 <hi>Sam.</hi> 7.3.16.5. <hi>Ecleſ.</hi> 5.1. <hi>Amos</hi> 4.12.) ſo eſpecially in this, 2 <hi>Chron.</hi> 35.6. 1 <hi>Cor</hi> 5.7, 8. &amp; 11.28.</p>
+            <p n="2">2. The Saints practiſed it both in the Old and New Teſtament. 2 <hi>Chron.</hi> 30.15, 16, 17, 19. <hi>Ezra</hi> 6.20, 21, 22. <hi>John</hi> 11.55. 1 <hi>Cor.</hi> 5.7, 8.</p>
+            <p n="3">3. Mercy and pardon belongs only to ſuch as prepare themſelves for it. 2 <hi>Chron.</hi> 30.18.</p>
+            <p n="4">4. The miſerable inconveniences of comming to it without preparation, which are theſe three, <hi>viz.</hi>
+            </p>
+            <p n="1">1. 'Tis a horrible ſin; no leſs then guilt of the body and blood of leſus Chriſt. 1 <hi>Cor.</hi> 11.27.</p>
+            <p n="2">2. 'Tis a filthy ſhame; as to come with old naſty cloaths to a Kings ſable. 2 <hi>Chron.</hi> 30.3.15. <hi>Mat</hi> 22.11, 12.</p>
+            <p n="3">3. 'Tis a moſt fearfull danger; as to come to eat, and drink damnation to themſelves. 1 <hi>Cor</hi> 11.29.</p>
+            <p>Queſt. <hi>But wherein does this due pre<g ref="char:EOLhyphen"/>paration
+<pb n="5" facs="tcp:169449:8"/>of our ſelves before we come, con<g ref="char:EOLhyphen"/>ſiſt?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In theſe two things.</p>
+            <p n="1">1. In ſelf-examination before we come. 1 <hi>Cor.</hi> 11.28.</p>
+            <p n="2">2. In putting on our wedding gar<g ref="char:EOLhyphen"/>ment. <hi>Mat.</hi> 22.11, 12. <hi>Rev.</hi> 19.7.</p>
+            <p>Queſt. <hi>What is required of us, in this ſelf-examination?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe two things. Firſt, We muſt ſet ſome time and pains apart about it. Secondly, Conſider the things we muſt examine our ſelves of before we come.</p>
+            <p>Queſt. <hi>Why muſt we ſet ſome time and pains apart about it?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For theſe four reaſons.</p>
+            <p n="1">1. Becauſe every duty requires time and pains, [<hi>Ecleſ.</hi> 3.1.9, 10. <hi>Jer.</hi> 48.10.] ſo this eſpecially. <hi>Pſal.</hi> 4.4. <hi>Sam.</hi> 3.40. 1 <hi>Cor</hi> 11.28. and 31. verſes.</p>
+            <p n="2">2. We cannot finde out our ſins, to be humbled for them, nor our graces, to re<g ref="char:EOLhyphen"/>joyce in them, or rather in God for them, without time and pains. 2 <hi>Cor.</hi> 13.5. <hi>Gal.</hi> 6.4. 1 <hi>Cor.</hi> 1.30, 31. <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. We cannot bring our hearts to cloſe with God in this, or any other holy duty, unleſs we beſtow ſome time and
+<pb n="6" facs="tcp:169449:9"/>pains about it. <hi>Pſal.</hi> 208.1, 2. 2 <hi>Pet.</hi> 1.5 and 10. verſes. with <hi>Mark.</hi> 1.35.38.</p>
+            <p n="4">4. This will abundantly requite all our coſt. 2 <hi>Pet.</hi> 1.5.10, 11.</p>
+            <p>Queſt. <hi>What are the things, we muſt ex<g ref="char:EOLhyphen"/>amine our ſelves of?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe two, <hi>viz.</hi> 1. What need we have of this Sacrament. 2. Whether we be the perſons invited to it.</p>
+            <p>Queſt. <hi>Why muſt we examine our ſelves of theſe?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> For theſe two reaſons.</p>
+            <p n="1">1. Becauſe unleſs we finde and feel our need of this Sacrament, we will ne<g ref="char:EOLhyphen"/>ver care for it, or deſire it as we ought. <hi>Mat.</hi> 9.12.</p>
+            <p n="2">2. Although we do finde and feel our need of it, yet if we are not the parties invited to it, we can hope for no bene<g ref="char:EOLhyphen"/>fit by it; as a feaſt does no good to thoſe who are not called to partake of it. <hi>Mat.</hi> 22.11, 12, 13.</p>
+            <p>Queſt. <hi>How may we finde, and feel our need of this Sacrament?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By ſerious looking on our own ſpirituall vileneſs, ſinfulneſs, and empty<g ref="char:EOLhyphen"/>neſs of grace in our ſelves by nature, and then on the fulneſs of grace that is in Chriſt, as preſented to us in this Sacra<g ref="char:EOLhyphen"/>ment.
+<pb n="7" facs="tcp:169449:9"/>As for inſtance: 1. Although we finde our ſelves dull, yea dead (ſpiritu<g ref="char:EOLhyphen"/>ally) in our ſelves by nature, 2 <hi>Cor.</hi> 3.5. <hi>Eph.</hi> 2.1. <hi>&amp;c.</hi> 4, 5. verſes. Yet Chriſt is here preſented as a fountain of life, to quicken us, <hi>Epheſ.</hi> 2.1. <hi>&amp;c. John</hi> 4.10, 14. <hi>Rev.</hi> 21.6. Secondly, Though we be dark and ignorant in our ſelves; yet Chriſt is our wiſdome to enlighten us, 1. <hi>Cor.</hi> 1.30. Thirdly, Though we are guilty, and lyable to condemnation of our ſelves: yet Chriſt is our righteouſneſs, to cover and juſtifie us. 1 <hi>Cor.</hi> 1.30. <hi>Phil.</hi> 3.7, 8, 9. Fourhtly, Though we are polluted in our ſelves, yet Chriſt is our ſanctification, that fountain of <hi>David</hi> opened, to cleanſe and purifie us, <hi>Zeach.</hi> 13.1. Fifthly, VVe are ſoul-ſick in our ſelves, yet Chriſt is here our Phyſitian to heal us, <hi>Mat.</hi> 9.12. Sixthly, Our graces <hi>viz.</hi> faith, hope, pa<g ref="char:EOLhyphen"/>tience, humility, love to God and his people, <hi>&amp;c.</hi> Are exceeding dull &amp; weak in our ſelves, yet Chriſt is here our bread of life, to quicken, &amp; ſtrengthen them in us, <hi>Joh.</hi> 6.35. Seaventhly, and laſtly, Our corruptions, temptations and ſoul<g ref="char:EOLhyphen"/>enemies are very ſtrong, [ſee <hi>Rom</hi> 7.23. <hi>Eph.</hi> 6.12. <hi>Luke</hi> 11.21. 1 <hi>Pet.</hi> 2.11.] But we may here ſee what great need we
+<pb n="8" facs="tcp:169449:10"/>have of the vertue and power of Ieſus Chriſt, in this Sacrament, to ſubdue and conquer them. 2 <hi>Cor.</hi> 12.9. <hi>Rom.</hi> 8.37. <hi>&amp;c. Phil.</hi> 4.13.</p>
+            <p>Queſt. <hi>But how ſhall we know whether we be the perſons invited to this Sacra<g ref="char:EOLhyphen"/>ment?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> VVe may know it by theſe three things.</p>
+            <p n="1">1. If we be ſuch as hunger and thirſt after Chriſt Jeſus, and his pretious merits, and righteouſneſs in this Sacrament, out of true ſenſe and feeling of our own ſin and miſery, as, <hi>Iſa.</hi> 55.1, 2, 3.</p>
+            <p n="2">2. If we be the children of God, this bread is provided for the children, and not for dogs. <hi>Mat</hi> 15.26. with 7. <hi>cap.</hi> ver. 6.</p>
+            <p n="3">3. If we be the Servants of God; he hath furniſhed his table only for his own ſervants, not for ruffians, loyterers, or ſuch as are ſtrangers to him. <hi>Luke.</hi> 12.36, 37. with <hi>cap.</hi> 22. the verſes, 26, 29, 30.</p>
+            <p>Queſt. <hi>How ſhall we know whether we are ſuch as do truly hunger &amp; thirſt after Chriſt Jeſus and his pretious righteouſneſs in this Sacrament?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> VVe may know by this, if we have the true marks and ſymptomes of
+<pb n="9" facs="tcp:169449:10"/>ſpirituall hunger and thirſt anſwerable to thoſe in nature.</p>
+            <p>Queſt. <hi>Which are they?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe ſix eſpecially, <hi>viz.</hi>
+            </p>
+            <p n="1">1. A true ſence and feeling of the great want of meat and drink, <hi>Pro.</hi> 27.7. So here we muſt finde and feel our exceed<g ref="char:EOLhyphen"/>ing want of Ieſus Chriſt, if we hunger, &amp; thirſt for him. <hi>Mat.</hi> 5 6. with <hi>John</hi> 7.37. <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Pain and torment for this want, till it be ſupplyed, as <hi>Judges</hi> 15.18, 19. So here till the ſoul enjoys Chriſt, <hi>Pſa.</hi> 42.1. <hi>Cant.</hi> 3.1, 2.</p>
+            <p n="3">3. An earneſt deſire, and going out of the ſoul after meat, and drink; ſo here after Ieſus Chriſt. <hi>Pſal.</hi> 42.1.63.1. <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. A diligent uſe of means, to obtaine theſe; as our poor people when they have no food at home, go abroad to the mar<g ref="char:EOLhyphen"/>ket, and to their neighbours for ſupply. <hi>Gen.</hi> 42 2. So here, when we finde the want of Chriſt at home, we muſt ſeek a<g ref="char:EOLhyphen"/>broad for him, come to his houſe, Word, Miniſters, Ordinances, <hi>&amp;c.</hi> as <hi>Cant.</hi> 1.8.3.1, 2. <hi>&amp;c. Joh.</hi> 5.39. We muſt go many miles for him, if need be, as thoſe, <hi>Joh.</hi> 6.24. <hi>Mat</hi> 2.1, 2. <hi>&amp;c.</hi>
+            </p>
+            <p n="5">5. Willingneſs to be at any coſt or
+<pb n="10" facs="tcp:169449:11"/>charge, to obtain theſe, as <hi>Jacob</hi> and the Aegyptians. <hi>Gen.</hi> 42.2.43.11. and 47.13.19, 20. as <hi>Job.</hi> 2.4. So we muſt be willing to part with any thing, not only our ſins and luſts, our pleaſures and profits <hi>&amp;c.</hi> But with our deareſt lives (if need re<g ref="char:EOLhyphen"/>quire) and count all as loſs and dung, that we may win Chriſt. <hi>Mat.</hi> 13.44.46. <hi>Phil.</hi> 3.7, 8. as <hi>Acts</hi> 21.13. <hi>Rev.</hi> 12.11.</p>
+            <p n="6">6. Readineſs, and reſolution to break through any dangers, and difficulties to obtain meat and drink, as thoſe lepers, 2 <hi>Kings</hi> 7.4. And as in the Proverb, hunger will break through ſtone walls. So thoſe who are ſpiritually hungry and thirſty after Ieſus Chriſt, will break through any dangers and difficulties; reproaches, diſgraces, perſecutions both of tongue and hand, through bad report, as well as good; will do or ſuffer any thing to win Chriſt. <hi>Heb.</hi> 11.25, 26, 36, 37. <hi>&amp;c.</hi> 2 <hi>Cor.</hi> 6.4, 5. &amp; 8. verſes. with <hi>Acts.</hi> 21.13. <hi>Rev.</hi> 12.11. as before. If we be thus ſpi<g ref="char:EOLhyphen"/>ritually hungry and thirſty after Chriſt in ſome ſincere meaſure, we are the gueſts invited, but not otherwiſe.</p>
+            <p>Queſt. <hi>How ſhall we know that we are the children of God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> VVe may know by this if we
+<pb n="11" facs="tcp:169449:11"/>have the diſpoſitions and affections of children. <hi>viz.</hi> theſe four.</p>
+            <p n="1">1. Children partake of the nature and image of their Parents. as, <hi>Gen.</hi> 5.3. So if we be Gods children, we muſt par<g ref="char:EOLhyphen"/>take of the divine nature and image of God; be holy as he is holy, mercifull, heavenly, as our heavenly father is mer<g ref="char:EOLhyphen"/>cifull, <hi>&amp;c.</hi> 2 <hi>Pet.</hi> 1.4. and 1 <hi>Pet.</hi> 1.15. <hi>Joh.</hi> 3.3, 5. <hi>Mat.</hi> 5.44, 45. <hi>&amp;c.</hi> 48. <hi>Luke</hi> 6.36. [compare <hi>Epheſ.</hi> 5.32. <hi>Col.</hi> 3.10.12. <hi>&amp;c.</hi>
+            </p>
+            <p n="2">2. Children have a deare love unto, and longing deſire after the preſence of their Parents. So we after God, to enjoy him in grace and glory. <hi>Pſal.</hi> 42.1, 2. <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. Children (ſuch as are good) are a<g ref="char:EOLhyphen"/>fraid to offend their Parents, carefull to pleaſe them. So we muſt be afraid to of<g ref="char:EOLhyphen"/>fend our heavenly father, <hi>&amp;c.</hi> as <hi>Mar.</hi> 1.6.</p>
+            <p n="4">4. Children go to their Parents, to ſupply their wants, caſt all their care up<g ref="char:EOLhyphen"/>on them, to feed and cloath them, <hi>&amp;c.</hi> So we on God. <hi>Mat.</hi> 6.25, 26. <hi>&amp;c.</hi> 31, 32. <hi>Mat.</hi> 6.25, 26. <hi>&amp;c.</hi> 31, 32. If we have thoſe diſpoſitions and affections of Gods children in us, this bread of the Lord is provided for us; but not elſe: If we be not born of God partakers of
+<pb n="12" facs="tcp:169449:12"/>the divine nature, are not holy, heaven<g ref="char:EOLhyphen"/>ly, mercifull, <hi>&amp;c.</hi> But prophane, earth<g ref="char:EOLhyphen"/>ly, cruell, <hi>&amp;c.</hi> we are not the perſons here invited.</p>
+            <p>Queſt. <hi>How ſhall we know whether we be the ſervants of God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> The Apoſtle reſolves us, <hi>Rom.</hi> 6.16. His ſervants we are, to whom we o<g ref="char:EOLhyphen"/>bey. If we do the works of God, and obey him, we are his ſervants: but if we do the works of ſin and Satan, and obey them, we are their ſervants, not Gods.</p>
+            <p>Queſt. <hi>Which are the works of God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Thoſe duties which God him<g ref="char:EOLhyphen"/>ſelfe commands, to be performed in his own way and manner. <hi>Deut.</hi> 12.32. <hi>Mat.</hi> 28.20. 1 <hi>Chron.</hi> 15.13.</p>
+            <p>Queſt. <hi>What are thoſe duties?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They are of two ſorts. Firſt, Of Piety towards God, as in the firſt table of the Law. <hi>Mat.</hi> 22.37, 38. Se<g ref="char:EOLhyphen"/>condly, of charity towards our neigh<g ref="char:EOLhyphen"/>bour, as in the ſecond table. <hi>Mat.</hi> 22.39.</p>
+            <p>Queſt. <hi>Which are the ſpeciall duties of Piety which we owe to God?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They are many, according to the ſeverall Commandements in the firſt Table, as theſe eſpecially.</p>
+            <p n="1">1. To know him as our God, to be<g ref="char:EOLhyphen"/>lieve,
+<pb n="13" facs="tcp:169449:12"/>or reſt on him in all our ſtraights; to hope in him, to fear him, to love him with all our hearts, <hi>&amp;c.</hi> To make choyce of him, and him only, as our God; to be zealous for him, his truth, cauſe, glory, <hi>&amp;c.</hi> As in the firſt Commandement. <hi>Exod.</hi> 20.3. 2 <hi>Chron.</hi> 28.9. <hi>Joh.</hi> 17.3. <hi>Pſal.</hi> 9.10. <hi>Jer.</hi> 17.7. <hi>Pſal.</hi> 31.19, 23. <hi>Deut.</hi> 10.20. <hi>Pſal.</hi> 119.139.</p>
+            <p n="2">2. To worſhip him not by images, or any imaginary way of man, but purely, ſpiritually, ſincerely, faithfully, reverent<g ref="char:EOLhyphen"/>ly, <hi>&amp;c.</hi> as he requires, without propha<g ref="char:EOLhyphen"/>neſs, ignorance, or ſuperſtition, on the one ſide; or formality, and hypocriſie, on the other; as in the ſecond Commande<g ref="char:EOLhyphen"/>ment. <hi>Exod</hi> 20.4, 5. <hi>Joh.</hi> 4.22, 23, 24. <hi>Acts</hi> 17.22, 23. <hi>Iſa.</hi> 29.13.</p>
+            <p n="3">3. To honour him in his name, titles, attributes, his word, worſhip, works, <hi>&amp;c.</hi> and that in our hearts, words, and con<g ref="char:EOLhyphen"/>verſations, as in the third Commande<g ref="char:EOLhyphen"/>ment. <hi>Deut.</hi> 28.58.</p>
+            <p n="4">4. To ſanctifie his Sabbath, by con<g ref="char:EOLhyphen"/>ſecrating it, as holy and honourable to the Lord, ſetting apart the Lords day, to the Lords Service; <hi>ſcil.</hi> to duties of <hi rend="sup">1</hi> praiſe, <hi rend="sup">2</hi> prayer, <hi rend="sup">3</hi> reading and hearing of the VVord, <hi rend="sup">4</hi> Catechizing, <hi rend="sup">5</hi> meditati<g ref="char:EOLhyphen"/>on,
+<pb n="14" facs="tcp:169449:13"/>
+               <hi rend="sup">6</hi> godly conference, <hi rend="sup">7</hi> examination and repetition of what we hear to apply the ſame to our practiſe and edification: alſo to duties of * mercy, and neceſſity as there is occaſion; as to viſit and admi<g ref="char:EOLhyphen"/>niſter to the ſick, to comfort the ſad, inſtruct the ignorant, warne the un<g ref="char:EOLhyphen"/>ruly, to convince and bring home poor ſeduced and ſinfull ſouls to the ways of truth and holineſs, reconcile differences, <hi>&amp;c.</hi> To provide neceſſarie food, raiment, quench a dangerous fire, lift up the Oxe fallen in the ditch, preſerve the creature which would elſe be ſpilt, <hi>&amp;c.</hi> as in the fourth Commande<g ref="char:EOLhyphen"/>ment. Compare <hi>Iſa.</hi> 58.13. <hi>Rev.</hi> 1.10. <hi rend="sup">1</hi> 
+               <hi>Pſal.</hi> 92. the whole Pſalm, entituled a Pſalm for the Sabbath day. <hi rend="sup">2</hi> See <hi>Iſa.</hi> 55.6, 7. <hi>Mark</hi> 1.35. <hi>&amp;c.</hi> 38, 39. <hi rend="sup">3</hi> 
+               <hi>Luke</hi> 4.14, 15. and 15.21. <hi rend="sup">4</hi> 16, 17. <hi>&amp;c. Act.</hi> 13. <hi>Deut.</hi> 6.6, 7. <hi>Gal.</hi> 6.6. <hi rend="sup">5</hi> 
+               <hi>Pſal.</hi> 1.2. <hi>Luke</hi> 2.19. <hi rend="sup">6</hi> 
+               <hi>Luke</hi> 24.17. <hi>&amp;c.</hi> 25. <hi>&amp;c.</hi> 32. with <hi>Act.</hi> 13.43. <hi rend="sup">7</hi> 
+               <hi>Act.</hi> 17.11, 12. <hi>Joh.</hi> 13.17. * For duties of mercy and neceſſity, ſee theſe Scriptures, <hi>Mat.</hi> 12.1. <hi>&amp;c.</hi> 7.10, 11, 12. Ibid. <hi>Mat.</hi> 25.35. <hi>&amp;c.</hi> with 1 <hi>Theſ.</hi> 5.14, 15. <hi>Gal.</hi> 6.1. <hi>&amp;c. Jam.</hi> 5.19, 20. <hi>Rom.</hi> 12.18. 1 <hi>Cor.</hi> 1.10. <hi>&amp;c.</hi> 6.1. <hi>&amp;c. Mat.</hi> 12.1. <hi>&amp;c.,</hi> with <hi>Luke</hi> 6.1. <hi>&amp;c.</hi> 10.</p>
+            <pb n="15" facs="tcp:169449:13"/>
+            <p> Queſt. <hi>Which are thoſe duties of chari<g ref="char:EOLhyphen"/>ty, we owe to our neighbours, as in the ſe<g ref="char:EOLhyphen"/>cond Table?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> They are theſe two in brief.</p>
+            <p n="1">1. VVe muſt love them as our ſelves,
+<note n="*" place="margin">
+                  <hi>Mat.</hi> 22.39.</note> not only in their ſouls, as our own ſouls. <hi>Luke</hi> 22.32. <hi>Phil.</hi> 2.4.20. <hi>&amp;c.</hi> But in their honours, as if our own, in every relation; whether our Parents na<g ref="char:EOLhyphen"/>turall, politick, or ſpiritual, <hi>&amp;c.</hi> whether as ſuperiours, equalls, or inferiours, as in the fifth Commandement. <hi>Exod.</hi> 20.12.</p>
+            <p n="2">2. In their lives, by ſeeking the pre<g ref="char:EOLhyphen"/>ſervation and comfort of them, and that in our thoughts, words, and deeds, as of our own, as in the ſixth Commandement. <hi>Exod.</hi> 20.13.</p>
+            <p>So 3. In their chaſtities.</p>
+            <p n="4">4. Their eſtates.</p>
+            <p n="5">5. Their credits, and good names, in the ſame manner, as of our own, <hi>i. e.</hi> as we ought to love our own. As in the ſeventh, eighth, ninth Commandements. <hi>Exod.</hi> 20.14, 15, 16.</p>
+            <p n="6">6. And laſtly, We muſt conſcienti<g ref="char:EOLhyphen"/>ouſly reſiſt every covetous thought or de<g ref="char:EOLhyphen"/>ſire,
+<note n="*" place="margin">
+                  <hi>Jam.</hi> 1.14.</note> ariſing in us, or caſt into our ſouls by Satan,
+<note n="*" place="margin">
+                  <hi>Luke,</hi> 22.3, 4.</note> after any thing that is our neighbours, whether his houſe, wife, <hi>&amp;c.</hi>
+               <pb n="16" facs="tcp:169449:14"/>and be ſweetly ſatisfied with that porti<g ref="char:EOLhyphen"/>on, and condition, which is, or ſhall be allotted to us by the Lord. As in the tenth, &amp; laſt Commandement. <hi>Exod.</hi> 20.17. <hi>Rom.</hi> 7.7. Compare the examples of <hi>David, Paul, &amp;c. Pſal.</hi> 16.5, 6. <hi>Phil.</hi> 4.11, 12. Theſe, and the like, are the works of God.</p>
+            <p>Queſt. <hi>Which are the works of ſin, and of the Devill?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Every breach of the Law of God, or whatſoever is contrary to theſe former duties. 1 <hi>Joh.</hi> 3.4, 8. as,</p>
+            <p n="1">1. All ignorance of God, unbelief, want of hope in God, fear of him, or love to him; all hatred or contempt of him; neglect of zeal for him, his cauſe, truth, <hi>&amp;c.</hi> The not making choice of him as our God, the loving our pleaſures, profits, or any thing more then him, <hi>&amp;c.</hi> 2 <hi>Tim.</hi> 3.4. <hi>Jam.</hi> 4.4. againſt the firſt Commande<g ref="char:EOLhyphen"/>ment.</p>
+            <p n="2">2. All worſhiping of God by Images, or any imaginary way of man, without warrant of the word of God. <hi>Deut.</hi> 12. <hi>Ma.</hi> 32.15.9. As al prophanes, ignorance, ſuperſtition, irreverence, infidelity, for<g ref="char:EOLhyphen"/>mality, or hypocriſie in his worſhip,
+<note n="*" place="margin">Iſa. 29.13. Iohn 4.23, 24.</note> or the wilfull contempt and neglect of it,
+<pb n="17" facs="tcp:169449:14"/>againſt the ſecond Commandement.</p>
+            <p n="3">3. All abuſive curſing, ſwearing, irre<g ref="char:EOLhyphen"/>verent uſe of Gods name, his titles, attri<g ref="char:EOLhyphen"/>butes, word, worſhip, works or ſervants, either in thought, word, or deed, a<g ref="char:EOLhyphen"/>gainſt the third Commandement. <hi>Deut.</hi> 28.58.</p>
+            <p n="4">4. All prophanation of the Lords day, by vain ſports, worldly imployments, <hi>&amp;c.</hi> giving way to our own thoughts, words or works on that day, not making it our delight to conſecrate it as holy, and honorable to the Lord, as is required. <hi>Iſa.</hi> 58.13. Or by neglect of the duties of this day before mentioned, whether of Piety towards God, or of charity and mercy towards our ſelves or others, in publike, private, or ſecret, againſt the fourth Commandement.</p>
+            <p n="5">5. All hatred or injurious dealing to<g ref="char:EOLhyphen"/>wards our neighbour, his ſoul, body, ho<g ref="char:EOLhyphen"/>nour, or relations (as before) his life, chaſtity, goods or good name. <hi>Lev.</hi> 19.17, 18. All neglect of that affection, and duty of love which we owe unto him, his ſoul, body, honour, <hi>&amp;c.</hi> With all co<g ref="char:EOLhyphen"/>vetous deſires of any thing that belongs unto him, againſt the ſecond Table of the Law. <hi>Mat.</hi> 22.39. To all which we
+<pb n="18" facs="tcp:169449:15"/>may add that large
+<note n="*" place="margin">This ca<g ref="char:EOLhyphen"/>talogue of ſcanda<g ref="char:EOLhyphen"/>lous ſins, may be of good uſe to ſhew who are to be de<g ref="char:EOLhyphen"/>barred from this Sacra<g ref="char:EOLhyphen"/>ment.</note> Catalogue of ſcan. dalous ſins, mentioned, 1 <hi>Cor.</hi> 6.9, 10. with <hi>Eph.</hi> 5.3, 4, 5. <hi>Gal.</hi> 5.19, 20, 21. &amp; 2 <hi>Tim.</hi> 3.2, 3, 4, 5. <hi>&amp;c.</hi> All which are properly called the fruits of the fleſh, and the works of the Devill. <hi>Gal.</hi> 5.19. <hi>&amp;c. John.</hi> 8.41.44. By theſe we may try our ſelves if we do the Lords works, and that in the Lords manner, as before we are the ſervants of the Lord, and the gueſts invited to this table: but if we do the Devils works, we are the Devils ſer<g ref="char:EOLhyphen"/>vants, and not the Lords. <hi>Joh.</hi> 8.41.44. <hi>Rom.</hi> 6.16. And we may partake of the table of Deuils, but cannot partake of the Lords table. 1 <hi>Cor.</hi> 10.21. Chriſt will have no Communion with us. 2 <hi>Cor.</hi> 6.14. [So much of the firſt branch of preparation before we come; which is ſelf-examination.]</p>
+            <p>Queſt. <hi>What is the ſecond thing requi<g ref="char:EOLhyphen"/>red in preparation before we come?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is the putting on our Wed<g ref="char:EOLhyphen"/>ding garment. <hi>Rev.</hi> 19.7. <hi>Mat.</hi> 22.12.</p>
+            <p>Queſt. <hi>What is this Wedding garment?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is nothing elſe but Chriſt Jeſus, and his righteouſneſs, with thoſe Sacramentall graces, wherewith he uſu<g ref="char:EOLhyphen"/>ally adorns all ſuch as he admits into in<g ref="char:EOLhyphen"/>ward
+<pb n="19" facs="tcp:169449:15"/>ſweet Communion with himſelf. <hi>Ro.</hi> 1<gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>.12.14. <hi>Phil.</hi> 3.8, 9. <hi>Rev.</hi> 19.7, 8.</p>
+            <p>Q. <hi>Which are thoſe Sacramental graces?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe 6. eſpecially. 1. Saving knowledge of God, and of Chriſt Jeſus. <hi>Joh.</hi> 17.3. 1 <hi>Cor.</hi> 10.15, 16. with <hi>cap.</hi> 11.29.</p>
+            <p n="2">2. True repentance of our former ſins. <hi>Exod</hi> 12.8. 1 <hi>Cor.</hi> 11.31. 2 <hi>Cor.</hi> 7.9, 10.</p>
+            <p n="3">3. New obedience for time to come. 1 <hi>Cor.</hi> 5.7, 8. 2 <hi>Cor.</hi> 5.17.</p>
+            <p n="4">4. A lively faith in Gods mercies through Chriſt. <hi>Joh.</hi> 6.35. &amp; 7.37.38.</p>
+            <p n="5">5. A thanful remembrance of his death. <hi>Pſal.</hi> 116.12, 13. 1 <hi>Cor.</hi> 11.26.</p>
+            <p n="6">6. Charity to all men, but eſpecially to the houſhold of faith. <hi>Mat.</hi> 5.44, 45. <hi>Rom.</hi> 12.18. 1 <hi>Theſ.</hi> 4.12. <hi>Eph.</hi> 4.32. <hi>Joh.</hi> 15.12. <hi>Gal.</hi> 6.10.</p>
+            <p>There are many other graces that ſerve to make up this wedding garment, <hi>viz.</hi> Humility, Holyneſs, Heavenly-minded<g ref="char:EOLhyphen"/>neſs, <hi>&amp;c.</hi> 1 <hi>Pet.</hi> 5.5. <hi>Pſalm.</hi> 45.13, 14. <hi>Col.</hi> 3.1. <hi>&amp;c.</hi> But they do all attend on theſe, as the Virgins on the Kings daughter. <hi>Pſal.</hi> 45.13, 14.</p>
+            <p>Queſt. <hi>But may none come to this Sacrament without theſe ſix speciall Graces?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> No, unleſs they will come to
+<pb n="20" facs="tcp:169449:16"/>eat and drink damnation to themſelves, as before, 1 <hi>Cor.</hi> 11.29.</p>
+            <p>Queſt. <hi>How is this cleared?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In theſe ſix particulars:</p>
+            <p n="1">1. Without ſaving knowledge they cannot diſcerne the Lords body, <hi>viz.</hi> Either the neceſſity, or excellencie of it in this Sacrament; and therefore if they come, they muſt needs come to condem<g ref="char:EOLhyphen"/>nation, as before, 1 <hi>Cor.</hi> 11.29, 34.</p>
+            <p n="2">2. Without repentance, their beſt ſa<g ref="char:EOLhyphen"/>crifices are an abomination to the Lord, <hi>Pro.</hi> 15.8. <hi>Iſa.</hi> 1.12, 13. <hi>&amp;c.</hi> 16.</p>
+            <p n="3">3. Without new obedience there is no Communion with Chriſt, in this or any Ordinance. 1 <hi>Cor.</hi> 5.7, 8. 2 <hi>Cor.</hi> 5.17. &amp; 6.14, 15.</p>
+            <p n="4">4. Without faith there is no poſſibi<g ref="char:EOLhyphen"/>lity of pleaſing God in this or any ſer<g ref="char:EOLhyphen"/>vice. <hi>Hebr.</hi> 11.6. <hi>Epheſ.</hi> 1.6. 1 <hi>Pet.</hi> 2.5.</p>
+            <p n="5">5. The nature of this Ordinance re<g ref="char:EOLhyphen"/>quires thankfulneſs, and therefore it is commonly called, the <hi>Euchariſt, [i. e.</hi> a ſacrifice of thankſgiving. <hi>Mat.</hi> 26.27. 1 <hi>Cor.</hi> 11.24.] Becauſe it was begun and ended of Chriſt with thankſgiving, and cannot be rightly uſed without it. <hi>Mat.</hi> 26.26, 30.</p>
+            <p n="6">
+               <pb n="21" facs="tcp:169449:16"/> 6. There can be no Communion with Chriſt, or with one another in this Sa<g ref="char:EOLhyphen"/>crament, without love and charity. 1 <hi>Cor.</hi> 12.13.13.1, 2, 3. &amp; 16.14. You ſee here the neceſſity of thoſe ſacramentall graces.</p>
+            <p>Qu. <hi>Pray ſhew me alſo the nature of thoſe graces as they lie in order. What is that ſaving knowledge which is here required?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is that grace of God in us, whereby we do in ſome meaſure know and apprehend GOD the Fa<g ref="char:EOLhyphen"/>ther (the only true GOD) to be our God and our Father, &amp; Jeſus Chriſt whom he hath ſent to be our Saviour. <hi>Joh.</hi> 17.3.20.17. <hi>Phil.</hi> 3.8, 9. It is that whereby we know and finde our ſelves ſinfull, vile, and loſt in our ſelves; but found and ſaved in and by our Lord Je<g ref="char:EOLhyphen"/>ſus Chriſt, in whom is all fulneſs of grace and ſalvation for us. <hi>Luke</hi> 19.10. <hi>Phil.</hi> 3.7, 8, 9. <hi>Joh.</hi> 1.16. <hi>Acts</hi> 4.10 12.</p>
+            <p>Queſt. <hi>What is the ſecond Sacramental grace,</hi> viz. <hi>True repentance?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is not a meer lip-profeſſion of repentance, as the world takes it; as to cry God mercy after an oath, and to ſwear again; to cry alas, and ſay we are ſorry for our ſins, and it may be ſhed tears over them, and yet go on ſtill in
+<pb n="22" facs="tcp:169449:17"/>the willing allowance and Commiſſion of them, as thoſe in <hi>Iſa.</hi> 1.12, 13. <hi>&amp;c.</hi> 58.3. <hi>&amp;c.</hi> with <hi>Jer.</hi> 3.4, 5. &amp; 7.9, 10.</p>
+            <p>Queſt. <hi>What is it then?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is that grace of God, where<g ref="char:EOLhyphen"/>by we have a true ſight and feeling of our ſins not in generall only, but in par<g ref="char:EOLhyphen"/>ticular, [as 1 <hi>Sam.</hi> 12.19. <hi>Neh.</hi> 1.6, 7. <hi>Rom.</hi> 7.7. <hi>&amp;c.</hi>] joyned with an hearty confeſſion of them unto God, ſerious contrition, and ſorrow for them, a ſin<g ref="char:EOLhyphen"/>cere loathing, and an utter leaving and forſaking of them. <hi>Pſ.</hi> 32.5.51, 4. <hi>Ezek.</hi> 7.16. <hi>Zech.</hi> 12.10. 2 <hi>Cor.</hi> 7.10. <hi>Ezek.</hi> 36.31. <hi>Prov.</hi> 28.13. <hi>Hoſ.</hi> 14.8. this is that true repentance here required.</p>
+            <p>Queſt. <hi>What is new obedience?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is that grace of God where<g ref="char:EOLhyphen"/>by we reſolve with purpoſe of heart to ſet upon all thoſe duties which God re<g ref="char:EOLhyphen"/>quires. [Whether of Piety, or charity, in ſecret, private, or publike] <hi>Acts</hi> 11.23. with <hi>Joſh.</hi> 24.15. It is to do, yea to delight to do what ever God will have us do, and to ſhun what ever God will have us ſhun. <hi>Act.</hi> 9.6. <hi>Pſal.</hi> 40.7, 8. &amp; 119.101. 1 <hi>Pet.</hi> 3.10. In a word it is to become a new creature. 2 <hi>Cor.</hi> 5.17.</p>
+            <pb n="23" facs="tcp:169449:17"/>
+            <p> Queſt. <hi>What is that lively faith, which is the fourth Sacramental grace?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> It is that ſpeciall grace of God given to his elect, whereby they go out of themſelves, as being vile and loſt ſin<g ref="char:EOLhyphen"/>ners in themſelves, and reſt wholly and only upon Jeſus Chriſt and Gods free mercy in him for their ſalvation. <hi>Acts</hi> 16.30, 31. <hi>Epheſ.</hi> 2.8. <hi>Tit.</hi> 1.1, 2.</p>
+            <p>Queſt. <hi>But every drunkard and ſwear<g ref="char:EOLhyphen"/>er,</hi> &amp;c. <hi>will ſay they have faith; and hope to be ſaved by Chriſt as well as the beſt, what would you ſay to ſuch? for all have not faith.</hi> 2 <hi>Theſ.</hi> 2.2.</p>
+            <p>
+               <hi>Anſw.</hi> I would ſay as the Apoſtle <hi>James</hi> does <hi>Jam</hi> 2.14, 17, 18. What doth it profit my brethren, though a man ſay he hath faith, and have not works, can faith ſave him? &amp;c. again, faith if it hath not works is dead being alone, <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>But how may we know whether our faith be true, yea or not?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We may know it by two things.</p>
+            <p n="1">1. By the nature. and:</p>
+            <p n="2">2. By the effects, or operations of it.</p>
+            <p>Queſt. <hi>How may we know it by the na<g ref="char:EOLhyphen"/>ture of it?</hi>
+            </p>
+            <pb n="24" facs="tcp:169449:18"/>
+            <p> 
+               <hi>Anſw.</hi> Thus: It will empty us and carry us out of our ſelves, and our own loſt eſtates, to reſt and quiet our ſouls, wholly &amp; only in, and upon Ieſus Chriſt for our ſalvation, as <hi>Acts</hi> 16.30, 31. 1 <hi>Cor.</hi> 1.30. So to reſt on him for tem<g ref="char:EOLhyphen"/>porals as well as ſpirituals. <hi>Pſal.</hi> 23.1.</p>
+            <p>Queſt. <hi>What are the effects or operatis ons of it?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe three.</p>
+            <p n="1">1. It is a living, not a dead faith. <hi>Heb.</hi> 2.4. <hi>Gal.</hi> 2.20. [The ſoul that hath it, muſt live by it ſpiritually, <hi>i.e.</hi> by draw<g ref="char:EOLhyphen"/>ing ſpirituall life and influence from Chriſt, and not ſweare by it, as too many do.]</p>
+            <p n="2">2. It is a working (or loving) not an idle faith; it works by love to God, his people, Word, and Ordinances. <hi>Gal.</hi> 5.6. <hi>Jam.</hi> 2.18. with <hi>Pſal.</hi> 119.97. <hi>&amp;c.</hi> It is like <hi>Dorcas,</hi> full of good works, <hi>Acts</hi> 9.</p>
+            <p n="3">3. It is a purifying and holy, not a fil<g ref="char:EOLhyphen"/>thy and unholy faith. <hi>Act.</hi> 15.9. 1 <hi>Joh.</hi> 3.3. 2 <hi>Cor.</hi> 7.1. <hi>&amp;c.</hi> 'tis holy in it ſelf, and makes thoſe pure and holy that par<g ref="char:EOLhyphen"/>take of it, <hi>Jude</hi> 20. Like a good houſewife that makes all clean where ſhe comes; ſo faith. Ibid. <hi>Acts</hi> 15.9.</p>
+            <pb n="25" facs="tcp:169449:18"/>
+            <p> By theſe we know our faith to be the true faith of Gods elect; but if theſe be wanting, it is an illuſion of Satan, meer preſumption, not faith.</p>
+            <p>Queſt. <hi>What is that thankfulneſs which is here required?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> it is not a meer lip-devotion, but a pious and hearty acknowledgment of the great love of Jeſus Chriſt in dying for us, with anſwerable deſires and reſo<g ref="char:EOLhyphen"/>lutions (by Gods grace) to do and ſuf<g ref="char:EOLhyphen"/>fer any thing for Jeſus Chriſt, who hath done and ſuffered ſo much for us: as, <hi>Pſal.</hi> 103.1, 2, 3. <hi>&amp;</hi> 116.13. <hi>Rev.</hi> 1.5. <hi>&amp;</hi> 12.11. <hi>Acts</hi> 5.41. <hi>&amp;</hi> 21.13.</p>
+            <p>Queſt. <hi>What is the laſt piece of this wedding-garment,</hi> viz. <hi>Charity which is here required to be put on by us, over and above all the reſt, as being the bond of per<g ref="char:EOLhyphen"/>fection? Col.</hi> 3.14.</p>
+            <p>
+               <hi>Anſw.</hi> It is that gracious affection of ſoul, where we muſt have a true, tender, and compaſſionate love to all, <hi>viz</hi> to wicked men, and enemies, as well as others, I mean unto their ſouls, not ſins; as <hi>Mat.</hi> 5.44.45. But eſpecial<g ref="char:EOLhyphen"/>ly to the houſhold of faith, the Com<g ref="char:EOLhyphen"/>munion and fellowſhip of the Saints, <hi>Gal.</hi> 6.10. <hi>Epheſ.</hi> 4.32. <hi>Joh.</hi> 15.12.
+<pb n="26" facs="tcp:169449:19"/>1 <hi>Joh.</hi> 5.1. &amp;c. Where there is moſt of God, there muſt be moſt of our love, &amp; deareſt affection. <hi>Pſal.</hi> 16.3. <hi>Phil.</hi> 1.1. &amp; 4.1. 1 <hi>Joh.</hi> 5.1.</p>
+            <p>So we that have one and the ſame God and father, the ſame Chriſt, ſpirit, bap<g ref="char:EOLhyphen"/>tiſme, table, faith, hope heaven, <hi>&amp;c.</hi> ſhould have the ſame moſt intimate love, and dear affection in Chriſt Ieſus to one another, deſiring and ſeeking the good and Salvation of each other as our own. <hi>Epheſ.</hi> 4.3, 4, 5, 6. <hi>Phil.</hi> 2.1, 2, 4. 1 <hi>Theſ.</hi> 2.7, 8. Theſe are the ſacramentall graces or wedding garment to be put on, by way of preparation before we come.</p>
+            <p>Queſt. <hi>What is the ſecond thing requi<g ref="char:EOLhyphen"/>red of thoſe that would be worthy and welcome partakers of this Ordinance?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> A right diſpoſition and beha<g ref="char:EOLhyphen"/>viour of themſelves when they come.</p>
+            <p>Queſt. <hi>How is this proved?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is required in all our ap<g ref="char:EOLhyphen"/>proaches unto God, ſo here eſpecially; See <hi>Pſal.</hi> 2.11, 12. &amp; 95.1, 2, 3, 6. <hi>Eccleſ.</hi> 5.1, 2. <hi>Mal.</hi> 1.11. As if we were invited to ſome great mans table, we would be<g ref="char:EOLhyphen"/>have our ſelves ſeemly, and ſutably to ſo great a preſence: ſo we being invited to the table of the great King of Hea<g ref="char:EOLhyphen"/>ven
+<pb n="27" facs="tcp:169449:19"/>and earth. <hi>Mat.</hi> 22.2, 11.</p>
+            <p>Queſt. <hi>Wherein does this right diſpo<g ref="char:EOLhyphen"/>ſition or behaviour of our ſelves, conſiſt?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> In theſe 6. particulars. <hi>viz.</hi>
+            </p>
+            <p n="1">1. In demeaning our ſelves humbly, without high-conceitedneſs. <hi>Mic.</hi> 6.8. <hi>Rom.</hi> 7.24. 1 <hi>Tim.</hi> 1.15.</p>
+            <p n="2">2. Reverently, without rudeneſs, <hi>Ec<g ref="char:EOLhyphen"/>cleſ.</hi> 5.1. <hi>Mal.</hi> 1.11, 12, 14.</p>
+            <p n="3">3. Intenſively, without diſtractedneſs, wholly minding the buſineſs which we came about, <hi>ſcil.</hi> to feed (in our ſelves) upon Ieſus Chriſt. <hi>Joh.</hi> 6.27.</p>
+            <p n="4">4. Sincerely, and heartily without feignedneſs. <hi>Pro.</hi> 23.26. <hi>Iſa.</hi> 29.13. <hi>Rom.</hi> 10.9, 10.</p>
+            <p n="5">5. Divinely, and ſpiritually, without earthlineſs, <hi>Exod.</hi> 12.24, 27. 1 <hi>Cor.</hi> 11.25, 26.</p>
+            <p n="6">6. With renovation of our Cove<g ref="char:EOLhyphen"/>nant, both of Faith, and obedience to<g ref="char:EOLhyphen"/>wards God, and love unto the Saints without back-ſlidingneſs, <hi>Cant.</hi> 2.16. &amp; 6.3. with <hi>Exod.</hi> 24.3, 7, 8. 1 <hi>Cor.</hi> 6.15. 1 <hi>Theſ.</hi> 3.12. &amp; 4.9, 10.</p>
+            <p>Qu. <hi>Pray open &amp; explain the meaning of theſe</hi> 6 <hi>particulars a little more fully, for the further benefit of your ſelves and others. Firſt, How muſt we demean our
+<pb n="28" facs="tcp:169449:20"/>ſelves humbly without high conceitedneſs, when we approach unto God in this Ordi<g ref="char:EOLhyphen"/>nance?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> We may conceive it thus, <hi>viz.</hi> By lying low in our own eyes, and in the eyes of God, in true ſenſe and feel<g ref="char:EOLhyphen"/>ing acknowledgment of our own ſinful<g ref="char:EOLhyphen"/>neſs, vileneſs, and unworthineſs, of the leaſt mercy in our ſelves, (having ſo oft<g ref="char:EOLhyphen"/>en ſlighted, and abuſed mercy) and wor<g ref="char:EOLhyphen"/>thineſs of the greateſt ſhame and miſery; and therefore we look upon it as a moſt high mercy of our God unto us, that we who are ſuch vile, unworthy wretches, ſhould be admitted to gather up the crumbs under his table: as in the con<g ref="char:EOLhyphen"/>feſſions of <hi>Jacob, David, Daniel, Paul,</hi> and that pretious <hi>Canaanitiſh woman. Gen.</hi> 32.10. 1 <hi>Chron.</hi> 17.16. <hi>&amp;c. Dan.</hi> 9.7, 8. <hi>Eph.</hi> 3.8. <hi>Mat.</hi> 15.27.</p>
+            <p>Queſt. <hi>How may we demean our ſelves reverently without rudeneſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By ſetting our ſelves as in the preſence of the great King of heaven and earth; before whom the very Angels hide their faces, and the Elders caſt down their Crowns to give him glory, <hi>Iſa.</hi> 6.1, 2. <hi>&amp;c. Rev.</hi> 4.10, 11.</p>
+            <p>Queſt. <hi>How intenſively, without diſtra<g ref="char:EOLhyphen"/>ctedneſs?</hi>
+            </p>
+            <pb n="29" facs="tcp:169449:20"/>
+            <p> 
+               <hi>Anſw.</hi> By applying our ſelves wholly to the buſineſs which we go about; which is not to feed our bodies, but our ſouls, and that with the body and blood, the pretious merits and excel<g ref="char:EOLhyphen"/>lencies of Ieſus Chriſt,
+<note n="*" place="margin">As a man invi<g ref="char:EOLhyphen"/>ted to a feaſt, comes not to gaze, but to eat. So we to feed upon Ieſus Chriſt.</note> that meat which endures to everlaſting life. <hi>Joh.</hi> 6.27. It is to ſuck life and ſalvation from his bleeding wounds. <hi>Iſa.</hi> 53.5, 6. <hi>Gal.</hi> 2.20. To get a rich ſupply of all grace, as faith, hope, patience, humility, holineſs, heavenly-mindedneſs, ſincere love to God, his word, people, Ordinances, <hi>&amp;c.</hi> from his fulneſs. <hi>Joh.</hi> 1.16. &amp; 7.37, 38. <hi>&amp;c.</hi> To gain ſtrength againſt every baſe luſt, wandering deſire, and againſt all our pride, envy, malice, worldlineſs, <hi>&amp;c.</hi> and gracious abilities to all holy du<g ref="char:EOLhyphen"/>ties. Compare 2 <hi>Cor.</hi> 12.7, 8, 9. with <hi>Phil.</hi> 4.13.</p>
+            <p>Queſt. <hi>How ſincerely and heartily, without feignedneſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> This is done by performing every duty with our hearts; we muſt pray, hear, confeſs, and bewaile our ſins with the heart; beleeve and cloſe with Chriſt in the heart. <hi>Pro.</hi> 23.26. <hi>Iſa.</hi> 29.13. <hi>Joel</hi> 2.12, 13. <hi>Rom.</hi> 10.9. <hi>Acts</hi> 8.37. <hi>&amp;c.</hi> not to ſay we repent, and bewaile
+<pb n="30" facs="tcp:169449:21"/>our ſins, and yet were never ſorry for them, or ſenſible of them, or did ever re<g ref="char:EOLhyphen"/>ſolve to leave them: ſo to ſay we believe in Ieſus Chriſt, and yet our hearts are far from him, we were never taken off from our ſins, or from the creature, or carry<g ref="char:EOLhyphen"/>ed out of our ſelves to reſt on him. This is to take the name of the Lord our God in vain,
+<note n="*" place="margin">Againſt the third Com<g ref="char:EOLhyphen"/>mande<g ref="char:EOLhyphen"/>ment. Exod. 20.7</note> to ſin againſt him with aggra<g ref="char:EOLhyphen"/>vation: we had need to take heed of ſinning there where we come to confeſs: bewaile and ask pardon for our ſin
+<note n="†" place="margin">See Iſa. 1.13, 14. &amp;c.</note> 
+               <hi>Jer.</hi> 3.4, 5. &amp; <hi>cap.</hi> 7.8, 9, 10.</p>
+            <p>Queſt. <hi>How divinely and ſpiritually, without earthlineſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By rayſing our hearts to high and holy meditations in the outward Sacramental ſignes &amp; actions of this Or<g ref="char:EOLhyphen"/>dinance, and thereby feeding and ſola<g ref="char:EOLhyphen"/>cing our ſouls with the inward grace of Chriſt herein preſented to us. <hi>Exod.</hi> 12.24. <hi>&amp;c.</hi> 27. 1 <hi>Cor.</hi> 11.25, 26. As for ex<g ref="char:EOLhyphen"/>ample, 1. When we ſee the Miniſter in the name of Chriſt ſetting apart the bread and wine; then Meditate on Gods gracious act, of ſetting apart his Son Ie<g ref="char:EOLhyphen"/>ſus Chriſt, for the work of our Redemp<g ref="char:EOLhyphen"/>tion. <hi>Joh.</hi> 3.16.</p>
+            <p n="2">2. When he bleſſeth the bread, then
+<pb n="31" facs="tcp:169449:21"/>let us lift up our ſouls to bleſs God for Ieſus Chriſt. <hi>Luke</hi> 1, 68. <hi>&amp;c. Eph.</hi> 1.3. <hi>&amp;c.</hi>
+            </p>
+            <p n="3">3. When we ſee the bread broken, and the wine poured out in this Ordi<g ref="char:EOLhyphen"/>nance, then think with our ſelves, even thus was the bleſſed Body of Ieſus Chriſt broken and crucified for us, and his pretious bloud poured out for us, <hi>viz.</hi> For me and thee in particular. <hi>Iſa.</hi> 53.5, 6. 1 <hi>Pet.</hi> 1.18, 19. <hi>Gal.</hi> 2.20. <hi>Rev.</hi> 1.5. <hi>&amp;c.</hi>
+            </p>
+            <p n="4">4. VVhen the Miniſter gives unto us the Bread and VVine, then think, thus does God freely offer and give unto us Jeſus Chriſt. <hi>Iſa.</hi> 9.6. <hi>Joh.</hi> 3.16.</p>
+            <p n="5">5. VVhen we receive the Bread and VVine by the hand of the body; then ſtretch we out our ſpeciall faith, which is as the hand of the ſoul, to receive and apply Ieſus Chriſt with all his pretious Merits and Excellencies to our ever<g ref="char:EOLhyphen"/>laſting good. <hi>Joh.</hi> 1.12.</p>
+            <p n="6">6. VVhen we feed upon the Bread and VVine by the mouth and ſtomake of our bodies, then let us ſweetly feed by faith upon Jeſus Chriſt to the refreſhing and nouriſhing of our ſouls
+<pb n="32" facs="tcp:169449:22"/>to everlaſting life. See <hi>Joh.</hi> 6.51.53.54. <hi>&amp;c.</hi> We muſt take heed of ſitting idly, or in a brown ſtudy, as our poor ignorant people uſe to do; but let our hearts be wholly taken up with ſweet meditations of Jeſus Chriſt and him cru<g ref="char:EOLhyphen"/>cified, and of Gods free and infinite love to us in him, as preſented to us in this Ordinance. 1 <hi>Cor.</hi> 2.2. <hi>Gal.</hi> 3.1. As <hi>John</hi> was raviſhed in the ſpirit on the Lords day. <hi>Rev.</hi> 1.10. ſo we ſhould be raviſhed in the ſpirit at the Lords ſupper.</p>
+            <p>Queſt. <hi>How muſt this be done with re<g ref="char:EOLhyphen"/>novation of our covenant of faith, and obe<g ref="char:EOLhyphen"/>dience towards God, and of love unto the Saints, without back-ſlidingneſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> 1. We muſt renew our faith as the Spouſe in the Canticles, by cloſing more intimately with Chriſt then ever; ſaying, I am my beloveds, and my be<g ref="char:EOLhyphen"/>loved is mine. <hi>Cantic.</hi> 2.16. &amp; 6.3.</p>
+            <p n="2">2. Our obedience to God, as <hi>Iſrael</hi> in <hi>Moſes</hi> and <hi>Joſhuahs</hi> time. <hi>Exod.</hi> 24.3. <hi>&amp;c.</hi> 7, 8. <hi>verſes,</hi> with <hi>John</hi> 24.16, 17, 18. as we take the Lord to be our God; ſo we muſt ingage our ſelves (by grace aſ<g ref="char:EOLhyphen"/>ſiſting us) to be his people. And that we will never ſwear, lie, ſteal, cozen, be drunk, prophane his Sabbaths, ſlight and
+<pb n="33" facs="tcp:169449:22"/>deſpiſe his Ordinances, or break Cove<g ref="char:EOLhyphen"/>nant with him as we have done, either by wilfull commiſſion of any ſin, or neglect and omiſſion of any duty: and there<g ref="char:EOLhyphen"/>fore this is called a Sacrament, or Mili<g ref="char:EOLhyphen"/>tary Oath, whereby, as ſouldiers of old, did ingage themſelves to be true to their Captain, as well as he to them: So we, in this Ordinance, do ſolemnly ingage our ſelves to be true and faithfull to Je<g ref="char:EOLhyphen"/>ſus Chriſt, as well as he to us.</p>
+            <p n="3">3. Our love unto the Saints, as <hi>David, Paul,</hi> and the Saints did to each other of old, <hi>Pſal.</hi> 16.3. 2 <hi>Cor.</hi> 7.1, 3. <hi>Phil.</hi> 4.1. 1 <hi>Theſ.</hi> 3.12. <hi>&amp;</hi> 4.9, 10. <hi>Epheſ.</hi> 1.15. So we muſt now reſolve (by the grace of Chriſt) that there ſhall be more true love, and mutuall dear affections be<g ref="char:EOLhyphen"/>tween us that are members of the ſame body, united by the ſame Spirit, parta<g ref="char:EOLhyphen"/>kers of the ſame Table, profeſſors of the ſame faith and hope, and to be heirs of the ſame Kingdom, then ever there hath been. <hi>Epheſ.</hi> 4.3, 4, 5. &amp;c. and that we will not admit of any more unchriſtian bitterneſs, wrath, anger, clamour, or e<g ref="char:EOLhyphen"/>vill ſpeaking, or any malice, heart-burn<g ref="char:EOLhyphen"/>ings, or unbrotherly jealouſies againſt one another, or ſtrifes and contentions
+<pb n="34" facs="tcp:169449:23"/>with each other as heretofore:
+<note n="*" place="margin">Gen. 13.8.</note> 
+               <hi>Eph.</hi> 4.31, 32. And therefore this is fitly called the Sacrament of our Communion with Chriſt by faith, and in him with each o<g ref="char:EOLhyphen"/>ther by the bonds of Love. 1 <hi>Cor.</hi> 10.16, 17. <hi>&amp; cap.</hi> 12.12, 13.</p>
+            <p>Queſt. <hi>What is the third and laſt thing required of thoſe, that would be worthy and welcome partakers of this Ordinance?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> A carefull Chriſtian carriage when they are gone, ſuch as may in ſome meaſure anſwer their ſweet Communion with Ieſus Chriſt. <hi>Col.</hi> 2.6, 7. As ye have therefore received Chriſt Ieſus the Lord, ſo walk ye in him, <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>How muſt this be done?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> Theſe 4. wayes. 1. Thankful<g ref="char:EOLhyphen"/>ly, without forgetfulneſs. <hi>Pſ.</hi> 103.1, 2, 3. &amp; 116.12, 13.</p>
+            <p n="2">2. Worthily, without baſeneſs. <hi>Col.</hi> 1.10.</p>
+            <p n="3">3. Thrivingly, without fruitleſneſs. 1 <hi>Theſ.</hi> 4.1. 2 <hi>Pet.</hi> 3.18.</p>
+            <p n="4">4. Hungringly, without fulſomneſs. <hi>Mat.</hi> 5.6.</p>
+            <p>Queſt. <hi>Pray explain theſe</hi> 4. <hi>particulars a little more fully, for the better knowledge and practiſe of them.</hi> 1. <hi>How may we carry our ſelves thankfully, without forgetfulnes, when we are gone from this Ordinance?</hi>
+            </p>
+            <pb n="35" facs="tcp:169449:23"/>
+            <p> 
+               <hi>Anſw.</hi> By ſtirring up our ſouls &amp; all that is within us to bleſs the Lord exceedingly, who hath vouchſafed to invite, &amp; admit us freely to his own table, &amp; to feed, and feaſt us with the pretious merits and ex<g ref="char:EOLhyphen"/>cellencies of Ieſus Chriſt. And although we deſerve not the leaſt crumb of mercy: nay, deſerve nothing but hell &amp; miſery in our ſelves, and to have Communion with Devils, &amp; damned ſpirits to all eternity; yet that he ſhould pleaſe to take us in<g ref="char:EOLhyphen"/>to bleſſed &amp; intimate Communion with himſelf. Oh! what ſhould we render to the Lord for this? We can never be ſuf<g ref="char:EOLhyphen"/>ficiently thankfull to him for ſo great a mercy. <hi>Pſ.</hi> 116.12.13. <hi>Epheſ.</hi> 1.3. <hi>&amp;c.</hi>
+            </p>
+            <p>Queſt. <hi>How Worthily without Baſe<g ref="char:EOLhyphen"/>neſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By behaving our ſelves ſuteably to ſo high a priviledge. <hi>Col.</hi> 1.10. As a man who is admitted to feaſt at a great mans table, will not away with baſe infe<g ref="char:EOLhyphen"/>riour company, and courſe or naſty dyet. So we being admitted into high Commu<g ref="char:EOLhyphen"/>nion with Ieſus Chriſt, and to feaſt upon his pretious excellencies, ſhould loath our former vain, &amp; baſe companionſhips with drunkards, ſwearers, <hi>&amp;c.</hi> &amp; to feed upon the filth of our own luſts, pride, ma<g ref="char:EOLhyphen"/>lice,
+<pb n="36" facs="tcp:169449:24"/>
+               <hi>&amp;c.</hi> 1 <hi>Cor.</hi> 6.15. 2 <hi>Cor.</hi> 6.14, 15.</p>
+            <p>Queſt. <hi>How thrivingly, without fruit<g ref="char:EOLhyphen"/>leſneſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By getting ſtrength and growth in every grace, as in faith, hope, repentance, humility, holineſs, heavenly<g ref="char:EOLhyphen"/>mindedneſs, love, patience, <hi>&amp;c.</hi> and more power againſt our ſpirituall ene<g ref="char:EOLhyphen"/>mies, as ſin, Satan, <hi>&amp;c.</hi> 1 <hi>Theſ.</hi> 4.1. 2 <hi>Pet.</hi> 3.18. <hi>Eph.</hi> 6.10. <hi>&amp;c.</hi> 1 <hi>Pet.</hi> 5.8, 9. <hi>&amp;c.</hi> As a man that hath been at a feaſt, be<g ref="char:EOLhyphen"/>coms more ſtrong <gap reason="illegible" resp="#UOM" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> for his work; ſo we in the wor<gap reason="illegible" resp="#UOM" extent="2 letters">
+                  <desc>••</desc>
+               </gap> of Ieſus Chriſt.</p>
+            <p>Queſt. <hi>How hungeringly, without ful<g ref="char:EOLhyphen"/>ſomneſs?</hi>
+            </p>
+            <p>
+               <hi>Anſw.</hi> By earneſt deſires and reſoluti<g ref="char:EOLhyphen"/>on to come again as God ſhall give us opportunity, 1 <hi>Cor.</hi> 11.26. As a travellour that hath a great journey to go, baits oft<g ref="char:EOLhyphen"/>en. So we having a great journey, to go from earth to heaven, to the heavenly <hi>Canaan,</hi> the new Jeruſalem, we muſt feed upon Chriſt often in this Sacrament, till we grow up in him who is our head, unto a perfect man, unto the meaſure of the ſtature of the fulneſs of Chriſt. <hi>Eph.</hi> 4.13, 15. And ſo at length obtain the end of our hopes, the everlaſting ſalvation of our ſouls. 1 <hi>Pet.</hi> 1.9. <hi>Gloria ſola Deo.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:169449:24" rendition="simple:additions"/>
+         </div>
+      </body>
+   </text>
+</TEI>
